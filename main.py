@@ -9,4 +9,4 @@ if Typ=='C' or Typ=='c':
 elif Typ =='F' or Typ=='f': 
   print(str(Tem)+"° in Fahrenheit is equivalent to "+str((Tem-32.0)/1.8) +"° Celsius.")
 else: 
-  print("Invalid unit("+Typ+").")
+  print(f"Invalid unit({Typ}).")
