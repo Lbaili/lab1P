@@ -1,5 +1,4 @@
 # Author: Chang Li cxl5844@psu.edu
-# Collaborator: Yangling Wang yuw17@psu.edu
 
 Tem= input("Enter temperature: ")
 Tem=float(Tem)
